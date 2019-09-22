@@ -23,7 +23,7 @@ the second one determines the way our slider should behave.
 The Slider function takes two parameters:
   
 * the element name,   
-is the name of a variabale which value is the html element tag  
+is the name of a variabale whose value is the html element tag  
 that contains the slideshow   
 and     
 * the configuration object,  
